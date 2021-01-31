@@ -1,4 +1,6 @@
-# Projct developed at [JS Expert Week 2.0](https://www.youtube.com/hashtag/semanajsexpert) using browser API getUserMedia
+# Projct developed at [JS Expert Week 2.0](https://www.youtube.com/hashtag/semanajsexpert) 
+
+browser API getUserMedia, Web Socket server with socketIO
 
 - Live on Heroku -> [Home](https://zoom-clone-bt.herokuapp.com/pages/home/)
 
