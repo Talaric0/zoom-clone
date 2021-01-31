@@ -1,6 +1,6 @@
 # Projct developed at [JS Expert Week 2.0](https://www.youtube.com/hashtag/semanajsexpert) using browser API getUserMedia
 
-- Live on Heroku -> [Home](https://zoom-clone-bt.herokuapp.com/pages/home/) para acessar a home page
+- Live on Heroku -> [Home](https://zoom-clone-bt.herokuapp.com/pages/home/)
 
 ## Home Page
 
