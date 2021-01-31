@@ -1,7 +1,6 @@
 # Projeto desenvolvido na [JS Expert Week 2.0](https://www.youtube.com/hashtag/semanajsexpert)
 
-- Acesse o [home](./pages/home/index.html) para acessar a home page
-- Acesse o [room](./page/room/index.html) uma room específica
+- Live on Heroku -> [Home](https://zoom-clone-bt.herokuapp.com/pages/home/) para acessar a home page
 
 ## Home Page
 
